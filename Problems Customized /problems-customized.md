@@ -21,6 +21,7 @@
 ## Recursion
 1. [Print n to 1](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/0)
 2. [Print 1 to n](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)
+3. [Tail Recursion (not a problem)](https://www.geeksforgeeks.org/tail-recursion/)
 3. [Checking Palindrome](https://www.geeksforgeeks.org/problems/palindrome-string0817/1)
 4. [Sum of digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1)
 5. [Rod cutting](https://www.geeksforgeeks.org/problems/rod-cutting0840/1)
