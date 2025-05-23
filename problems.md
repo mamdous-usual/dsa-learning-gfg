@@ -13,7 +13,7 @@
 ## Bit Magic
 1. [Check Kth bit is set or not](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)
 2. [Count set Bits](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)
-3. [To check whether a number is a power of 2 or not](https://leetcode.com/problems/power-of-two/description/)
+3. [To check whether a number is a power of 2 or not](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1)
 4. [Odd occurrences in an array](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1)
 5. [Two numbers having odd occurrences in an array](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1)
 6. [Generate power set using bitwise operators](https://www.geeksforgeeks.org/problems/power-set4302/1)
