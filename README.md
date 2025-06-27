@@ -25,7 +25,7 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 3. Feel free to contribute by opening pull requests for improvements or alternative approaches.  
 
 ## 🤝 Contributions & Collaboration  
-- If you're also enrolled in this course, **join the journey!** Fork this repo and add your Java solutions.  
+- If you're also enrolled in this course, **join the journey!** Fork this repo and add your solutions.  
 - Found a bug or a better approach? Open an issue!  
 - Let's discuss DSA concepts and solve problems together! 💬  
 
