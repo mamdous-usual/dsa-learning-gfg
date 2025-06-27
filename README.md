@@ -1,6 +1,6 @@
-# GFG Learning DSA 🚀
+# GFG Learning DSA 
 
-Welcome to my **GeeksforGeeks Data Structures and Algorithms (DSA) Learning Repository!** If you're also taking this course, feel free to follow along, contribute, and use this repo as a reference. Let's master DSA together! 💡  
+Welcome to my **GeeksforGeeks Data Structures and Algorithms (DSA) Learning Repository!** If you're also taking this course, feel free to follow along, contribute, and use this repo as a reference. Let's master DSA together!
 
 ## 📌 Course Link  
 [Data Structures and Algorithms Complete Course](https://www.udemy.com/course/data-structures-and-algorithms-complete-course-cpp-java/) 
@@ -29,10 +29,8 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 - Found a bug or a better approach? Open an issue!  
 - Let's discuss DSA concepts and solve problems together! 💬  
 
-## 🛠 Tech Stack Used  
-- **Java** (All solutions and implementations will be in Java)  
-- Data Structures & Algorithms Implementations  
-- Problem-solving approaches from GeeksforGeeks  
+## 🧑‍💻 Language Used
+- **Java** – All solutions and implementations are written in Java.
 
 ## 📅 Progress Tracker  
 | Topic             | Status |
@@ -42,7 +40,7 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 | Bit Magic        | ❌ Not Started |
 | Recursion        | ❌ Not Started |
 | Arrays           | ❌ Not Started |
-## 📢 Stay Connected  
-If you're also taking this course, let's connect! Drop a message, discuss solutions, and help each other grow. 🚀  
 
-Happy coding! 💻✨  
+## 📢 Stay Connected  
+If you're also taking this course, let's connect! Drop a message, discuss solutions, and help each other grow. 
+
