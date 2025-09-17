@@ -35,8 +35,8 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 ## 📅 Progress Tracker  
 | Topic             | Status |
 |------------------|--------|
-| Analysis of Algorithms | ⏳ In Progress  |
-| Mathematics      | ❌ Not Started |
+| Analysis of Algorithms |  ✅ Completed |
+| Mathematics      | ⏳ In Progress |
 | Bit Magic        | ❌ Not Started |
 | Recursion        | ❌ Not Started |
 | Arrays           | ❌ Not Started |
