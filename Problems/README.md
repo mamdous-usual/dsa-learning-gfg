@@ -6,3 +6,4 @@
 - [GCD or HCF of two numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
 - [LCM of two numbers](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1)
 - [Check for Prime](https://www.geeksforgeeks.org/problems/prime-number2314/1)
+- [Unique Prime Factors](https://www.geeksforgeeks.org/problems/prime-factors5052/1)
