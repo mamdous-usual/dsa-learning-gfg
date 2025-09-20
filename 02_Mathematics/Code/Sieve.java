@@ -62,26 +62,24 @@ public class Sieve {
     
     // For GFG problem submission -> it wants integer array return type
     static int[] sieve(int n) {
-    boolean[] isPrime = new boolean[n + 1];
-    Arrays.fill(isPrime, true);
-
-    ArrayList<Integer> primes = new ArrayList<>();
-
-    for (int i = 2; i <= n; i++) {
-        if (isPrime[i]) {
-            primes.add(i);
-            for (int j = i * i; j <= n; j += i) {
-                isPrime[j] = false;
+       boolean[] isPrime = new boolean[n + 1];
+       Arrays.fill(isPrime, true);
+       ArrayList<Integer> primes = new ArrayList<>();
+       for (int i = 2; i <= n; i++) {
+            if (isPrime[i]) {
+                primes.add(i);
+                for (int j = i * i; j <= n; j += i) {
+                   isPrime[j] = false;
             }
+          }
         }
-    }
 
-    // Convert ArrayList<Integer> to int[]
-    int[] result = new int[primes.size()];
-    for (int i = 0; i < primes.size(); i++) {
-        result[i] = primes.get(i);
+        // Convert ArrayList<Integer> to int[]
+        int[] result = new int[primes.size()];
+        for (int i = 0; i < primes.size(); i++) {
+            result[i] = primes.get(i);
+        }
+        return result;
     }
-    return result;
-}
 
  }
