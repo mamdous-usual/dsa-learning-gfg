@@ -9,3 +9,4 @@
 - [Unique Prime Factors](https://www.geeksforgeeks.org/problems/prime-factors5052/1)
 - [All divisors of a number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1)
 - [Sieve of Erastosthenes](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1)
+- [Pow(x,n)](https://www.geeksforgeeks.org/problems/powx-n/1)
