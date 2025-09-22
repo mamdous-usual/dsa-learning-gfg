@@ -6,6 +6,7 @@ public class BitOperators {
         System.out.println(x|y);// Bitwise OR(|)
         System.out.println(x^y);// Bitwise OR(^)
         System.out.println(~x);// Bitwise NOT(~) -> take single operand
+        System.out.println(x << y);// Bitwise Right Shift(<<) 
                                 
     }
 }
