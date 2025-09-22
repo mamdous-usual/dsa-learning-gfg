@@ -8,7 +8,7 @@ public class BitOperators {
         System.out.println(~x);// Bitwise NOT(~) -> take single operand
         System.out.println(x << y);// Bitwise Right Shift(<<) 
         System.out.println(x >> y); // Bitwise Signed Right Shift(>>)
-        System.out.println(x >>> y); // Bitwise  Right Shift(>>)
+        System.out.println(x >>> y); // Bitwise Unsigned Right Shift(>>)
                                 
     }
 }
