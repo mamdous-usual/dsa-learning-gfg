@@ -6,7 +6,7 @@ public class LCM {
     }
 
     // Naive Approach
-    static int lcmNaive(int a, int b) {
+    static int lcmNaive(int a, int b) { // Time Complexity: O(a*b - max(a,b))
         int result = Math.max(a,b);
         while(true) {
             if (result % a == 0 && result % b == 0) {
@@ -19,7 +19,7 @@ public class LCM {
 
     // Efficient Approach -> using Euclidean Algorithm
 
-    static int lcmEfficient(int a, int b) {
+    static int lcmEfficient(int a, int b) { // Time Complexity: O(log(min(a,b)))
         return (a*b)/gcd(a,b);
     }
 
