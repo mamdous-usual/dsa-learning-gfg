@@ -6,7 +6,7 @@
 - [GCD or HCF of two numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
 - [LCM of two numbers](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1)
 - [Check for Prime](https://www.geeksforgeeks.org/problems/prime-number2314/1)
-- [Unique Prime Factors](https://www.geeksforgeeks.org/problems/prime-factors5052/1)
+- [Prime Factors(unique)](https://www.geeksforgeeks.org/problems/prime-factors5052/1)
 - [All divisors of a number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1)
 - [Sieve of Erastosthenes](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1)
 - [Pow(x,n)](https://www.geeksforgeeks.org/problems/powx-n/1)
