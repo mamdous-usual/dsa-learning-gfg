@@ -4,7 +4,7 @@ public class Palindrome {
         System.out.println(isPalindrome(2102)); // false
     }
    
-    static boolean isPalindrome(int n) {
+    static boolean isPalindrome(int n) { // Time Complexity: O(logn)
         int reverse = 0;
         int temp = n;
         
