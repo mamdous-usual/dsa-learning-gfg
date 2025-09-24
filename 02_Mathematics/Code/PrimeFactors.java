@@ -11,7 +11,7 @@ public class PrimeFactors {
     }
 
     // Naive Solution
-    static void primeFactorsNaive(int n) {
+    static void primeFactorsNaive(int n) { // Time Complexity: O(n * sqrt(n))
         for (int i = 2; i <= n; i++) {
             if (isPrime(i)) {
                 int x = i;
@@ -37,7 +37,7 @@ public class PrimeFactors {
 
 
 // Efficient Solution
-static void primeFactorsEfficient(int n) {
+static void primeFactorsEfficient(int n) { //Time Complexity: O(sqrt(n))
     if (n <= 1) return;
 
     for (int i = 2; i*i <= n; i++) {
@@ -53,7 +53,7 @@ static void primeFactorsEfficient(int n) {
 
 
 // More Efficient Solution
-static void primeFactorsMoreEfficient(int n) {
+static void primeFactorsMoreEfficient(int n) { //Time Complexity: O(sqrt(n))
     if (n <= 1) return;
     while (n % 2 == 0) {
         System.out.println(2);
