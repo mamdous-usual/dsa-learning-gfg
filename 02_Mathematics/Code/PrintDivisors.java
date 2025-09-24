@@ -19,7 +19,7 @@ public class PrintDivisors {
     }
 
     // Acceptable Efficient solution
-    static void printDivisors(int n) {
+    static void printDivisors(int n) { // Time Complexity: O(sqrt(n))
         for (int i=1; i*i<n; i++) {
             if (n%i == 0)
                 System.out.print(i + " ");
