@@ -3,7 +3,7 @@ public class CountDigits {
         System.out.println(countDigits(512)); // 3
     }
 
-    static int countDigits(int n) {
+    static int countDigits(int n) { // Time Complexity: O(logn)
         int digits = 0;
         if (n == 0) return 1;
 
