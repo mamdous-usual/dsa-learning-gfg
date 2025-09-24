@@ -7,7 +7,7 @@ public class CheckPrime {
     }
 
     // Naive Method
-    static boolean isPrimeNaive(int n) {
+    static boolean isPrimeNaive(int n) { // Time Complexity: O(n)
         if (n == 1) return false;
         for (int i = 2; i < n; i++) {
             if (n % i == 0) { 
@@ -18,7 +18,7 @@ public class CheckPrime {
 }
 
 // Efficient Approach
-static boolean isPrimeEfficient(int n) {
+static boolean isPrimeEfficient(int n) { // Time Complexity: O(sqrt(n))
     if (n == 1) return false;
     for (int i = 2; i*i <= n; i++) {
         if (n % i == 0) {
@@ -29,7 +29,7 @@ static boolean isPrimeEfficient(int n) {
 }
 
 // More Efficient Approach
-static boolean isPrimeMoreEfficient(int n) {
+static boolean isPrimeMoreEfficient(int n) { // Time Complexity: O(sqrt(n))
     if (n == 1) return false;
     if (n == 2 || n == 3) return true;
     if (n % 2 == 0 || n % 3 == 0) return false;
