@@ -6,7 +6,7 @@ public class GCD {
     }
 
     // Naive Approach
-    static int gcdNaive(int a, int b) {
+    static int gcdNaive(int a, int b) { // Time Complexity:O(min(a,b))
         int result = Math.min(a, b);
         while (result > 0) {
             if (a % result == 0 && b % result == 0) {
@@ -18,7 +18,7 @@ public class GCD {
     }
 
     // Euclidean Approach Implementation
-    static int gcdEuclidean(int a, int b) {
+    static int gcdEuclidean(int a, int b) { // Time Complexity:O(min(a,b))
         while (a != b) {
             if (a > b) {
                 a = a - b;
@@ -30,7 +30,7 @@ public class GCD {
     }
     
     // Optimized Euclidean Approach Implementation 
-    static int gcdOptimized(int a, int b) {
+    static int gcdOptimized(int a, int b) { // Time Complexity: O(log(min(a,b)))
         if (b==0) {
             return a;
         } else {
