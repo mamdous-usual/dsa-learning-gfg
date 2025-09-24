@@ -17,6 +17,19 @@ public class IterativePower {
 
     // For the same problem in Leetcode -> have some edge cases
     static int powerImproved(double x, int n) { // Time complexity: O(n)
-
+        double res = 1;
+        long N = n;
+        if (N < 0) {
+            x = 1/x;
+            N = -N;
+        }
+        while (N > 0) {
+            if (N % 2 != 0) {
+                res = res*x;
+            }
+            x = x*x;
+            N /= 2;
+        }
+        return res;
     }
 }
