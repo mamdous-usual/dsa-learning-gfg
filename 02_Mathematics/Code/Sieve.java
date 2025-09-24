@@ -8,7 +8,7 @@ public class Sieve {
     }
 
     //  Simple Implementation of Sieve Algorithm
-    static void sieveSimple(int n) {
+    static void sieveSimple(int n) { // Time Complexity: O(n)
         boolean[] isPrime = new boolean[n+1];
         Arrays.fill(isPrime, true);
         for (int i = 2; i*i <= n; i++) {
@@ -28,7 +28,7 @@ public class Sieve {
 
      
     //  Optimized Implementation of Sieve Algorithm
-    static void sieveOptimized(int n) {
+    static void sieveOptimized(int n) { // Time complexity: O(n)
         boolean[] isPrime = new boolean[n+1];
         Arrays.fill(isPrime, true);
         for (int i = 2; i*i <= n; i++) {
