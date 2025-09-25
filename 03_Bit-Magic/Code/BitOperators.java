@@ -1,6 +1,6 @@
 public class BitOperators {
     public static void main(String[] args) {
-        // Java has sever bitwise operators
+        // Java has seven bitwise operators
         int x = 3;
         int y = 6;
         System.out.println(x&y);// Bitwise AND(&)
