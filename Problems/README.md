@@ -17,3 +17,4 @@
 - [Power of Two](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1)
 - [One odd Occuring](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1)
 - [Two odd Occuring](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1)
+- [Power Set](https://www.geeksforgeeks.org/problems/power-set4302/1)
