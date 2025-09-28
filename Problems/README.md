@@ -14,3 +14,4 @@
 ## Bits
 - [Check K-th Bit is set](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)
 - [Count Set Bits](https://www.geeksforgeeks.org/problems/set-bits0143/1)
+- [Power of Two](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1)
