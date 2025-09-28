@@ -37,8 +37,8 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 |------------------|--------|
 | Analysis of Algorithms | ✅ Completed  |
 | Mathematics      | ✅ Completed  |
-| Bit Magic        | ⏳ In Progress|
-| Recursion        | ❌ Not Started |
+| Bit Magic        | ✅ Completed  |
+| Recursion        | ⏳ In Progress|
 | Arrays           | ❌ Not Started |
 
 ## 📢 Stay Connected  
