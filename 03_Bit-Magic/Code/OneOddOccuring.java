@@ -1,4 +1,4 @@
-public class OddOccuring {
+public class OneOddOccuring {
     public static void main(String[] args) {
         
         int[] arr = {4,4,7,4,8,7,7,7,8};
