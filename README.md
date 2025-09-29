@@ -51,6 +51,7 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 | Dequeue          | ❌ Not Started |
 | Tree             | ❌ Not Started |
 | Binary Search Tree | ❌ Not Started |
+| Heap             | ❌ Not Started |
 
 ## 📢 Stay Connected  
 If you're also taking this course, let's connect! Drop a message, discuss solutions, and help each other grow. 
