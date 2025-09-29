@@ -44,6 +44,7 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 | Sorting          | ❌ Not Started |
 | Matrix           | ❌ Not Started |
 | Hashing          | ❌ Not Started |
+| String           | ❌ Not Started |
 
 ## 📢 Stay Connected  
 If you're also taking this course, let's connect! Drop a message, discuss solutions, and help each other grow. 
