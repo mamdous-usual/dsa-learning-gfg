@@ -18,3 +18,6 @@
 - [One odd Occuring](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1)
 - [Two odd Occuring](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1)
 - [Power Set](https://www.geeksforgeeks.org/problems/power-set4302/1)
+
+## Recursion
+- [Print 1 to n](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1)
