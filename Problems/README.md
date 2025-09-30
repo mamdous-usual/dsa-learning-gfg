@@ -21,3 +21,4 @@
 
 ## Recursion
 - [Print 1 to n](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1)
+- [Print n to 1](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1)
