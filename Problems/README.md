@@ -25,3 +25,4 @@
 - [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/sum-of-series2811/1)
 - [Check Palindrome](https://www.geeksforgeeks.org/problems/palindrome-string0817/1)
 - [Sum of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1)
+- [Rope Cutting]
