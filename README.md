@@ -53,7 +53,7 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 | Binary Search Tree | ❌ Not Started |
 | Heap             | ❌ Not Started |
 | Graph            | ❌ Not Started |
-| Grddey           | ❌ Not Started |
+| Greedy           | ❌ Not Started |
 | Backtracking     | ❌ Not Started |
 | Dynamic Programming | ❌ Not Started |
 | Trie             | ❌ Not Started |
