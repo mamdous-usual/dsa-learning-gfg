@@ -58,6 +58,7 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 | Dynamic Programming | ❌ Not Started |
 | Trie             | ❌ Not Started |
 | Segment and  Binary Indexed Trees | ❌ Not Started |
+| Disjoint Sets    | ❌ Not Started |
  
 
 ## 📢 Stay Connected  
