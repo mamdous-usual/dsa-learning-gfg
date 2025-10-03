@@ -56,6 +56,7 @@ git clone https://github.com/mamdous-usual/dsa-learning-gfg.git
 | Grddey           | ❌ Not Started |
 | Backtracking     | ❌ Not Started |
 | Dynamic Programming | ❌ Not Started |
+| Trie             | ❌ Not Started |
  
 
 ## 📢 Stay Connected  
